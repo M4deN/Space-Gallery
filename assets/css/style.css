@@ -68,7 +68,7 @@ h1,h2 {
 # Portfolio
 -------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 7%;
+  margin-bottom: 3%;
 }
 #portfolio-flters li:hover {
   color: #007bff !important;
